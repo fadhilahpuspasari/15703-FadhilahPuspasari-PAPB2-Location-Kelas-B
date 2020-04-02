@@ -1,0 +1,4 @@
+#Thu Apr 02 20:50:13 WIB 2020
+base.0=/Users/FP/Documents/fp/smt 4/papb 2/15703-Fadhilah-PAPB2-Location-Kelas-B/app/build/intermediates/dex/debug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
